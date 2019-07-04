@@ -1,0 +1,10 @@
+C:\Users\Paskal\source\repos\pythontest\pythontest\bin\Debug\pythontest.exe.config
+C:\Users\Paskal\source\repos\pythontest\pythontest\bin\Debug\pythontest.exe
+C:\Users\Paskal\source\repos\pythontest\pythontest\bin\Debug\pythontest.pdb
+C:\Users\Paskal\source\repos\pythontest\pythontest\obj\Debug\pythontest.csprojResolveAssemblyReference.cache
+C:\Users\Paskal\source\repos\pythontest\pythontest\obj\Debug\pythontest.Properties.Resources.resources
+C:\Users\Paskal\source\repos\pythontest\pythontest\obj\Debug\pythontest.csproj.GenerateResource.cache
+C:\Users\Paskal\source\repos\pythontest\pythontest\obj\Debug\pythontest.csproj.CoreCompileInputs.cache
+C:\Users\Paskal\source\repos\pythontest\pythontest\obj\Debug\pythontest.exe
+C:\Users\Paskal\source\repos\pythontest\pythontest\obj\Debug\pythontest.pdb
+C:\Users\Paskal\source\repos\pythontest\pythontest\obj\Debug\pythontest.Form1.resources
